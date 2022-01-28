@@ -1,0 +1,6 @@
+./src/config/env
+.env
+.env.dev
+./src/config/env/.env.dev
+./src/config/env/.env
+node_modules
